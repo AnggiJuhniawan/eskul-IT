@@ -12,3 +12,4 @@ C:\Users\User01\Documents\Ekskul IT 2026\WK\Latihan1\obj\Debug\net10.0\refint\La
 C:\Users\User01\Documents\Ekskul IT 2026\WK\Latihan1\obj\Debug\net10.0\Latihan1.pdb
 C:\Users\User01\Documents\Ekskul IT 2026\WK\Latihan1\obj\Debug\net10.0\Latihan1.genruntimeconfig.cache
 C:\Users\User01\Documents\Ekskul IT 2026\WK\Latihan1\obj\Debug\net10.0\ref\Latihan1.dll
+C:\Users\User01\Documents\Ekskul IT 2026\WK\Latihan1\obj\Debug\net10.0\Latihan1.sourcelink.json
