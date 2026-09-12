@@ -1,0 +1,15 @@
+C:\Users\User01\Documents\Ekskul IT 2026\WK\latihan3_aritmatika\bin\Debug\net10.0\latihan3_aritmatika.exe
+C:\Users\User01\Documents\Ekskul IT 2026\WK\latihan3_aritmatika\bin\Debug\net10.0\latihan3_aritmatika.deps.json
+C:\Users\User01\Documents\Ekskul IT 2026\WK\latihan3_aritmatika\bin\Debug\net10.0\latihan3_aritmatika.runtimeconfig.json
+C:\Users\User01\Documents\Ekskul IT 2026\WK\latihan3_aritmatika\bin\Debug\net10.0\latihan3_aritmatika.dll
+C:\Users\User01\Documents\Ekskul IT 2026\WK\latihan3_aritmatika\bin\Debug\net10.0\latihan3_aritmatika.pdb
+C:\Users\User01\Documents\Ekskul IT 2026\WK\latihan3_aritmatika\obj\Debug\net10.0\latihan3_aritmatika.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User01\Documents\Ekskul IT 2026\WK\latihan3_aritmatika\obj\Debug\net10.0\latihan3_aritmatika.AssemblyInfoInputs.cache
+C:\Users\User01\Documents\Ekskul IT 2026\WK\latihan3_aritmatika\obj\Debug\net10.0\latihan3_aritmatika.AssemblyInfo.cs
+C:\Users\User01\Documents\Ekskul IT 2026\WK\latihan3_aritmatika\obj\Debug\net10.0\latihan3_aritmatika.csproj.CoreCompileInputs.cache
+C:\Users\User01\Documents\Ekskul IT 2026\WK\latihan3_aritmatika\obj\Debug\net10.0\latihan3_aritmatika.sourcelink.json
+C:\Users\User01\Documents\Ekskul IT 2026\WK\latihan3_aritmatika\obj\Debug\net10.0\latihan3_aritmatika.dll
+C:\Users\User01\Documents\Ekskul IT 2026\WK\latihan3_aritmatika\obj\Debug\net10.0\refint\latihan3_aritmatika.dll
+C:\Users\User01\Documents\Ekskul IT 2026\WK\latihan3_aritmatika\obj\Debug\net10.0\latihan3_aritmatika.pdb
+C:\Users\User01\Documents\Ekskul IT 2026\WK\latihan3_aritmatika\obj\Debug\net10.0\latihan3_aritmatika.genruntimeconfig.cache
+C:\Users\User01\Documents\Ekskul IT 2026\WK\latihan3_aritmatika\obj\Debug\net10.0\ref\latihan3_aritmatika.dll
