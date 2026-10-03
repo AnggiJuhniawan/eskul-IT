@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("latihan3_aritmatika")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+afb09dd2ad1caf2d7cb048eec4b3ebac19babc01")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53eda6cf57e78b69b78ae13eecee637c60354898")]
 [assembly: System.Reflection.AssemblyProductAttribute("latihan3_aritmatika")]
 [assembly: System.Reflection.AssemblyTitleAttribute("latihan3_aritmatika")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
